@@ -11,10 +11,4 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=ffffff" alt="Playwright">
 </p>
 
-```mermaid
-pie
-    "JavaScript" : 27
-    "Python" : 3
-    "Swift" : 2
-    "TypeScript" : 1
-```
+<p><img src="assets/langs.svg" width="480" alt="Languages: JavaScript 82%, Python 9%, Swift 6%, TypeScript 3%"></p>
